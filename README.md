@@ -6,9 +6,9 @@ This project supports user authentication, game management, and real-time intera
 ---
 
 ## 🚀 Table of Contents
-1. [Overview](#overview)  
-2. [Tech Stack](#tech-stack)  
-3. [Features](#features)  
+1. [Overview] (#overview)  
+2. [Tech Stack] (#tech-stack)  
+3. [Features] (#features)  
 4. [Installation & Setup](#installation--setup)  
 5. [Environment Variables](#environment-variables)  
 6. [API Documentation](#api-documentation)  
