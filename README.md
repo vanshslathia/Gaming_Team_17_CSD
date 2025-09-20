@@ -30,7 +30,7 @@ Ensure you have the following installed:
 
 # 🎮 Game App Server
 
-## 📖 Project Overview
+## 📖 Project Overview ,
 The Game App Server powers the backend of our gaming platform.  
 It provides secure APIs for user management, game listings, and real-time features.  
 The server is built with **Node.js**, **Express**, and integrates with **MongoDB Atlas** for data storage.
