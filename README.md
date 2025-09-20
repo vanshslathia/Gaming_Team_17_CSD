@@ -4,7 +4,7 @@
 
 The client-side of the Game App, built using [React](https://reactjs.org/) and [Redux](https://redux.js.org/). This application allows users to interact with the gaming platform, view available games, and manage their profiles.
 
-## Features
+## Features..
 
 - User authentication and profile management
 - Game browsing and search functionality
@@ -60,4 +60,6 @@ The server is built with **Node.js**, **Express**, and integrates with **MongoDB
 ### Fetch All Games
 ```http
 GET /api/games
+
+
 
