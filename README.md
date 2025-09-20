@@ -11,13 +11,13 @@ This project supports user authentication, game management, and real-time intera
 3. [Features] (#features)  
 4. [Installation & Setup] (#installation--setup)  
 5. [Environment Variables] (#environment-variables)  
-6. [API Documentation](#api-documentation)  
-7. [Folder Structure](#folder-structure)  
-8. [Development Commands](#development-commands)  
-9. [Screenshots](#screenshots)  
-10. [Deployment](#deployment)  
-11. [Contributing](#contributing)  
-12. [License](#license)  
+6. [API Documentation] (#api-documentation)  
+7. [Folder Structure] (#folder-structure)  
+8. [Development Commands] (#development-commands)  
+9. [Screenshots] (#screenshots)  
+10. [Deployment] (#deployment)  
+11. [Contributing] (#contributing)  
+12. [License] (#license)  
 
 ---
 
