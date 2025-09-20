@@ -13,7 +13,7 @@ The client-side of the Game App, built using [React](https://reactjs.org/) and [
 
 ## Installation
 
-### Prerequisites
+### Prerequisites required
 
 Ensure you have the following installed:
 
